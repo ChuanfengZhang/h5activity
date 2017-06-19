@@ -112,7 +112,7 @@ module.exports = merge(prodEnv, {
 })
 ```
 
-![v-console]('https://github.com/callmedadaxin/vue2.0-template/blob/master/assets/v-console.png');
+![v-console](./assets/v-console.png);
 
 ## mock数据
 vue-cli使用express启用服务监听调试，我们直接在express增加路由，mock数据，方便前后端并行开发。
